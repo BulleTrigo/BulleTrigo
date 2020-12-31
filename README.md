@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/swapneshsri" target="blank"><img src="https://img.shields.io/twitter/follow/swapneshsri?logo=twitter&style=for-the-badge" alt="swapneshsri" /></a> </p>
 
-- 🔭 I’m currently working on **tvastr - E-commerce site for jewelry**
+- 🔭 I’m currently working on **Mirella - E-commerce site for jewelry**
 
 - 🌱 I’m currently learning **Vue.js, GraphQl & GSAP**
 
